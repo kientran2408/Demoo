@@ -37,17 +37,13 @@
 <!--End of Sidebar/menu -->
 
 <!-- Overlay effect when opening sidebar on small screens -->
-<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
 
 <!-- !PAGE CONTENT! -->
-<div class="w3-main" style="margin-left:300px">
 
   <!-- Header -->
   <header>
-        <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
-    
         <div class="w3-container ">
-            <div class="w3-panel w3-sand w3-padding-16 w3-text-black">
+            <div class="w3-panel w3-sand w3-padding-16">
                 <h1 style="text-align: center; font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
             </div>
         <div class="w3-content w3-section " style="max-width:750px">
