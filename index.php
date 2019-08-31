@@ -40,11 +40,11 @@
   <!-- Header -->
   <header>
 
-        <div class="w3-container ">
+      <div class="w3-container ">
             <div class="w3-panel w3-sand w3-padding-16">
                 <h1 style="text-align: center;color: black;font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
             </div>
-        <div class="w3-content" style="max-width:2000px;margin-top:46px">
+        <div class="w3-content">
           <div class="mySlides w3-display-container w3-center">
             <img class="mySlides" src="images/naruto.jpg" style="width:50%">
           </div>
@@ -54,8 +54,8 @@
           <div class="mySlides w3-display-container w3-center">  
             <img class="mySlides" src="images/onepiece.jpg" style="width:60%">
           </div>
-            </div>
         </div>
+      </div>
   </header>
   <!--End of Header -->
         
