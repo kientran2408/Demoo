@@ -63,7 +63,7 @@
   <!-- ABOUT -->
   <div class="w3-gray" id="about">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="about">
-      <h2 class="w3-wide w3-center" style="color: black">About</h2>
+      <h2 class="w3-wide w3-center" style="color: white">About</h2>
       <br>
         <div class="w3-col m6 w3-padding-large w3-hide-small">
         <img src="images/Minato.jpg" class="w3-round w3-image w3-opacity-min" alt="minato" width="302" height="218">
