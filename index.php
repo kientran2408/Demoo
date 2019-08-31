@@ -12,9 +12,9 @@
 <body class="w3-light-grey w3-content" style="max-width:1600px">
 
 <!-- Sidebar/menu -->
-<nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3; width:300px;" id="mySidebar"><br>
+<nav class="w3-sidebar w3-collapse w3-gray w3-animate-left" style="z-index:3; width:300px;" id="mySidebar"><br>
   <div class="w3-container w3-bottombar w3-border-red">
-    <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-large w3-padding w3-hover-red" title="close menu">
+    <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-large w3-padding w3-hover-black" title="close menu">
       <i class="fa fa-remove"></i>
     </a>
       
