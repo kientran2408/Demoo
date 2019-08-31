@@ -60,9 +60,9 @@
       <h2 class="w3-wide w3-center">About</h2>
       <br>
       <div class="w3-col m4">
-        <img src="images/Minato.jpg" style="width:70%; border-style: solid">
+        <img src="images/Minato.jpg" style="width:70%;">
     </div>
-    <div class="w3-col m4 about-style">
+    <div class="w3-col m8 about-style">
         <h4><b>WHAT IS FIGURE?</b></h4>
         <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
         <p>Usually figure bears the shape of a human, sometimes a beast, a god, a goblin, a monster or even an alien creature ... any character thought of by the artist, sculpted into 3D called the figure.</p>
