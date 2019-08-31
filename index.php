@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Lego World</title>
+<title>ATN Shop</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/style.css">
@@ -8,8 +8,14 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<style type="text/css">
+    body {
+           background-color: gray;
+           font-family: "Lato", sans-serif
+         }
+</style>
 <body class="w3-light-grey w3-content" style="max-width:1600px">
+
 
 <!-- Sidebar/menu -->
 
@@ -23,6 +29,7 @@
           <div class="w3-top">
             <div class="w3-bar w3-black w3-card">
                 <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+                <div class="w3-tag w3-large w3-brown w3-left">ATN Shop</div>
                 <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-th-large fa-fw w3-margin-right"></i>HOMEPAGE</a> 
                 <a href="index-product.php" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bars fa-fw w3-margin-right"></i>PRODUCT</a> 
                 <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a>
@@ -36,28 +43,22 @@
 </nav>
 <!--End of Sidebar/menu -->
 
-<!-- Overlay effect when opening sidebar on small screens -->
-
-<!-- !PAGE CONTENT! -->
-
   <!-- Header -->
   <header>
+
         <div class="w3-container ">
             <div class="w3-panel w3-sand w3-padding-16">
                 <h1 style="text-align: center; font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
             </div>
         <div class="w3-content w3-section " style="max-width:750px">
-                <img class="mySlides" src="images/naruto.jpg" style="width:100%">
-                <img class="mySlides" src="images/pikachu.jpg" style="width:100%">
-                <img class="mySlides" src="images/onepiece.jpg" style="width:100%">
+                <img class="mySlides" src="images/naruto.jpg" style="width:50%">
+                <img class="mySlides" src="images/pikachu.jpg" style="width:50%">
+                <img class="mySlides" src="images/onepiece.jpg" style="width:60%">
             </div>
         </div>
   </header>
   <!--End of Header -->
         
- 
-  
-  
 
   <!-- ABOUT -->
 <div class="w3-container w3-padding-large w3-grey">
