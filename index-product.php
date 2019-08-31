@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <head>
           <style type="text/css">
-            body {
+            head {
                     background-color: gray;
                     font-family: "Lato", sans-serif
             }
@@ -47,7 +47,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <div class="container w3-padding-large" id="portfolio">
         <div class="w3-bottombar">
             
-            <div class="w3-panel w3-border w3-yellow w3-round-large w3-padding-16">        
+            <div class="w3-panel w3-border w3-gray w3-round-large w3-padding-16">        
                 <p class="w3-xlarge w3-serif " style="text-decoration: underline " align="middle">__________________________________CATALOGUE__________________________________</p>             
 
                 <?php 
@@ -66,7 +66,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
                                 {
                                     $ID = $row ['cid'];
                                     $link="?direct=show_product&id=".$ID;        
-                                    echo "<a href='$link' class='w3-button w3-green w3-border w3-round-large'>" ;
+                                    echo "<a href='$link' class='w3-button w3-black w3-border w3-round-large'>" ;
                                     $Name = $row ['cname'];                                               
                                     echo "$Name";
                                 }
