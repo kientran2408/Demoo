@@ -8,12 +8,6 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style type="text/css">
-    body {
-           background-color: gray;
-           font-family: "Lato", sans-serif
-         }
-</style>
 <body class="w3-light-grey w3-content" style="max-width:1600px">
 
 
@@ -47,13 +41,18 @@
   <header>
 
         <div class="w3-container ">
+        <style type="text/css">
+          body{
+            background-color: gray;
+          }
+        </style>
             <div class="w3-panel w3-sand w3-padding-16">
                 <h1 style="text-align: center; font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
             </div>
         <div class="w3-content w3-section " style="max-width:750px">
-                <img class="mySlides" src="images/naruto.jpg" style="width:50%">
-                <img class="mySlides" src="images/pikachu.jpg" style="width:50%">
-                <img class="mySlides" src="images/onepiece.jpg" style="width:60%">
+                <img class="mySlides" src="images/naruto.jpg" style="width:100%">
+                <img class="mySlides" src="images/pikachu.jpg" style="width:100%">
+                <img class="mySlides" src="images/onepiece.jpg" style="width:100%">
             </div>
         </div>
   </header>
