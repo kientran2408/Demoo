@@ -8,7 +8,14 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<head>
+          <style type="text/css">
+            body {
+                    background-color: gray;
+                    font-family: "Lato", sans-serif
+            }
+        </style>
+</head>
 
 
 <!-- Sidebar/menu -->
@@ -63,7 +70,7 @@
   <!-- ABOUT -->
   <div class="w3-gray" id="about">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="about">
-      <h2 class="w3-wide w3-center" style="color: white">About</h2>
+      <h2 class="w3-wide w3-center" style="color: black">About</h2>
       <br>
         <div class="w3-col m6 w3-padding-large w3-hide-small">
         <img src="images/Minato.jpg" class="w3-round w3-image w3-opacity-min" alt="minato" width="302" height="218">
@@ -91,7 +98,7 @@
   <!-- Contact Section -->
   <div class="w3-black" id="contact">
             <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
-                <h2 class="w3-wide w3-center" style="color: black">Contact</h2>
+                <h2 class="w3-wide w3-center" style="color: white">Contact</h2>
                     <div class="w3-row w3-padding-32">
                     <div class="w3-col m6 w3-large w3-margin-bottom">
                         <i class="fa fa-map-marker" style="width:30px"></i>Ha Noi, Vietnam<br>
