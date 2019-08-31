@@ -41,13 +41,8 @@
   <header>
 
         <div class="w3-container ">
-        <style type="text/css">
-          body{
-            background-color: gray;
-          }
-        </style>
             <div class="w3-panel w3-sand w3-padding-16">
-                <h1 style="text-align: center; font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
+                <h1 style="text-align: center;color: black;font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
             </div>
         <div class="w3-content w3-section " style="max-width:750px">
                 <img class="mySlides" src="images/naruto.jpg" style="width:100%">
@@ -63,13 +58,12 @@
 <div class="w3-container w3-padding-large w3-grey">
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m4">
-        <img src="images/About.PNG" style="width:70%; border-style: solid; border-color: black">
+        <img src="images/Minato.jpg" style="width:70%; border-style: solid; border-color: black">
     </div>
     <div class="w3-col m8 about-style">
-        <h4><b>ABOUT THE LEGO WORLD</b></h4>
-        <p>
-            The LEGO WORLD is a privately held, family-owned company with headquarters in Billund, Denmark, and main offices in Enfield, USA, London, UK, Shanghai, China, and Singapore. Founded in 1932 by Ole Kirk Kristiansen, and based on the iconic LEGO® brick, it is one of the world's leading manufacturers of play materials.
-        </p>
+        <h4><b>WHAT IS FIGURE?</b></h4>
+        <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
+        <p>Usually figure bears the shape of a human, sometimes a beast, a god, a goblin, a monster or even an alien creature ... any character thought of by the artist, sculpted into 3D called the figure.</p>
     </div>
   </div>
   
@@ -87,72 +81,54 @@
         
     </div>
     <div class="w3-col m4">
-        <img src="images/About1.png" style="width:70%" class="w3-right">
+        <img src="images/kiritoasuna.jpg" style="width:70%" class="w3-right">
     </div>
   </div> 
-</div>
-  
-
-  
-    
-    
-<div class="w3-container w3-padding-large" style="margin-bottom:32px"> 
-    
-    <h4>Should you believe in our shop?</h4>
-    <!-- Progress bars / Skills -->
-    <p>Yes, you should</p>
-    <div class="w3-grey">
-      <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:100%">100%</div>
-    </div> 
-       
-</div>
-  
+</div> 
   <!-- Contact Section -->
-  <div class="w3-container w3-padding-large w3-grey">
-    <h4 id="contact"><b>Contact Me</b></h4>
-    <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -16px">
-      <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey"></i></p>
-        <p>thanhldgch17337@fpt.edu.vn</p>
+  <div class="w3-black" id="contact">
+            <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
+                <h2 class="w3-wide w3-center">Contact</h2>
+                    <div class="w3-row w3-padding-32">
+                    <div class="w3-col m6 w3-large w3-margin-bottom">
+                        <i class="fa fa-map-marker" style="width:30px"></i>Ha Noi, Vietnam<br>
+                        <i class="fa fa-phone" style="width:30px"></i> Phone: +84751561621<br>
+                        <i class="fa fa-envelope" style="width:30px"> </i> Email: atnshop@gmail.com<br>
+                    </div>
+                    <div class="w3-col m6">
+                    <form action="/action_page.php" target="_blank">
+                        <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
+                            <div class="w3-half">
+                                <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+                            </div>
+                            <div class="w3-half">
+                                <input class="w3-input w3-border" type="text" placeholder="Email" required name="Email">
+                            </div>
+                        </div>
+                    <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
+                    <button class="w3-button w3-white w3-section w3-right" type="submit">SEND</button>
+                    </form>
+                    </div>
+                    </div>
+            </div>
       </div>
-      <div class="w3-third w3-teal">
-        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey"></i></p>
-        <p>Chicago, US</p>
-      </div>
-      <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey"></i></p>
-        <p>512312311</p>
-      </div>
-    </div>
-    
-  </div>
 
   <!-- Footer -->
-  <footer class="w3-container w3-padding-32 w3-dark-grey">
-	  <div class="w3-row-padding">
-	    <div class="address-style">
-	      <h4><b>Address</b></h4>
-	        <p>4043 N Ravenswood Ave, Chicago, IL 60613</p>
-	        <p>United States</p>
-	    </div> 
-	    
-
 	    <div class="address-style">
 	      <h4><b>Popular tags</b></h4>
 	      <p>
-	        <span class="w3-tag w3-black w3-margin-bottom">LEGO</span> 
-	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">LEGO Technic</span>
-	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Creative</span>
-	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Intelligent</span>        
+	        <span class="w3-tag w3-black w3-margin-bottom">Figure</span> 
+	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Figure Japan</span>
+	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Anime Figure</span>     
 	      </p>
 	    </div>
 
 	  </div>
-  </footer>
-  
-  <div class="w3-black w3-center w3-padding-24">Powered by LEGO World</div>
-
-</div> <!-- End page content -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-hide-small">
+        <i class="fa fa-facebook-official w3-hover-opacity"></i>
+        <i class="fa fa-instagram w3-hover-opacity"></i>
+        <i class="fa fa-twitter w3-hover-opacity"></i>
+        <div class="copyright_text copyright_col w3-center">Copyright © 2019 The ATN Shop. All rights reserved.</div><!-- End page content -->
 
 	<script>
 		// Script to open and close sidebar
@@ -180,7 +156,7 @@
 		  myIndex++;
 		  if (myIndex > x.length) {myIndex = 1}    
 		  x[myIndex-1].style.display = "block";  
-		  setTimeout(carousel, 5000); // Change image every 5 seconds
+		  setTimeout(carousel, 2000); // Change image every 5 seconds
 		}
 	</script>
 </body>
