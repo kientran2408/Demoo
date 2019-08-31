@@ -44,10 +44,13 @@
             <div class="w3-panel w3-sand w3-padding-16">
                 <h1 style="text-align: center;color: black;font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
             </div>
-        <div class="w3-content w3-section " style="max-width:750px">
-                <img class="mySlides" src="images/naruto.jpg" style="width:100%">
-                <img class="mySlides" src="images/pikachu.jpg" style="width:100%">
-                <img class="mySlides" src="images/onepiece.jpg" style="width:100%">
+        <div class="w3-content" style="max-width:2000px;margin-top:46px">
+          <div class="mySlides w3-display-container w3-center">
+            <img class="mySlides" src="images/naruto.jpg" style="width:50%">
+          <div class="mySlides w3-display-container w3-center">
+            <img class="mySlides" src="images/pikachu.jpg" style="width:50%">
+          <div class="mySlides w3-display-container w3-center">  
+            <img class="mySlides" src="images/onepiece.jpg" style="width:60%">
             </div>
         </div>
   </header>
@@ -77,7 +80,8 @@
         <h4><b>WHAT IS JAPAN FIGURE?</b></h4>
         <p>These are figures created by Japanese artists, illustrating, creating and finishing in Japan.</p>
         <p>Because of being born in Japan, it is obvious that the Japan figure has Japanese culture, from Anime, Manga, Game, Light novel, J-pop to Virtual Singer and so on.</p>
-        <p>With Japanese technology and a strictly supervised production process, the figure products are very well-executed, sharp details, vivid colors, precise expressions like the original character have satisfied many fans. fans all over the world. So even though "Made in China" is still Japanese.</p>    
+        <p>With Japanese technology and a strictly supervised production process, the figure products are very well-executed, sharp details, vivid colors, precise expressions like the original character have satisfied many fans. fans all over the world. So even though "Made in China" is still Japanese.</p>
+        <br>    
     </div>
   </div> 
 </div>
@@ -142,7 +146,7 @@
 		  myIndex++;
 		  if (myIndex > x.length) {myIndex = 1}    
 		  x[myIndex-1].style.display = "block";  
-		  setTimeout(carousel, 2000); // Change image every 5 seconds
+		  setTimeout(carousel, 3000); // Change image every 5 seconds
 		}
 	</script>
 </body>
