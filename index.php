@@ -12,7 +12,7 @@
 <body class="w3-light-grey w3-content" style="max-width:1600px">
 
 <!-- Sidebar/menu -->
-<nav class="w3-sidebar w3-collapse w3-gray w3-animate-left" style="z-index:3; width:300px;" id="mySidebar"><br>
+<nav class="w3-sidebar w3-collapse w3-black w3-animate-left" style="z-index:3; width:300px;" id="mySidebar"><br>
   <div class="w3-container w3-bottombar w3-border-red">
     <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-large w3-padding w3-hover-black" title="close menu">
       <i class="fa fa-remove"></i>
@@ -24,8 +24,11 @@
     <p class="w3-text-grey"></p>
   </div>
     <br><br>
-  <div class="w3-bar-block">
-    <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>HOMEPAGE</a> 
+          <div class="w3-top">
+            <div class="w3-bar w3-black w3-card">
+                <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+
+    <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-black"><i class="fa fa-th-large fa-fw w3-margin-right"></i>HOMEPAGE</a> 
     <a href="index-product.php" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bars fa-fw w3-margin-right"></i>PRODUCT</a> 
     <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a>
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
