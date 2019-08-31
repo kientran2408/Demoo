@@ -65,7 +65,8 @@
         <h4><b>WHAT IS FIGURE?</b></h4>
         <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
         <p>Usually figure bears the shape of a human, sometimes a beast, a god, a goblin, a monster or even an alien creature ... any character thought of by the artist, sculpted into 3D called the figure.</p>
-    </div>
+        <br>
+        <br>
         <div class="w3-col m6 w3-padding-large w3-hide-small">
         <img src="images/kiritoasuna.jpg" class="w3-round w3-image w3-opacity-min" alt="coffee beans" width="302" height="218">
         </div>
@@ -75,7 +76,7 @@
         <p>With Japanese technology and a strictly supervised production process, the figure products are very well-executed, sharp details, vivid colors, precise expressions like the original character have satisfied many fans. fans all over the world. So even though "Made in China" is still Japanese.</p>    
     </div>
   </div> 
-</div> 
+</div>
   <!-- Contact Section -->
   <div class="w3-black" id="contact">
             <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
