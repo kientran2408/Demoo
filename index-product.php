@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Lego World</title>
+<title>ATN Shop</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/style.css">
@@ -40,14 +40,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 </nav>
 <!--End of Sidebar/menu -->
 
-<!-- Overlay effect when opening sidebar on small screens -->
-
-<!-- !PAGE CONTENT! -->
-<div class="w3-main" style="margin-left:300px">
   <!-- Header -->
-  <header>
-        <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
-  </header>
+
   <!--End of Header -->
   
     <div class="container w3-padding-large" id="portfolio">
