@@ -55,12 +55,12 @@
         
 
   <!-- ABOUT -->
-<div class="w3-container w3-padding-large w3-grey">
-  <div class="w3-row-padding w3-padding-16" id="about">
-    <div class="w3-col m4">
-        <img src="images/Minato.jpg" style="width:70%; border-style: solid; border-color: black">
+  <div class="w3-gray" id="about">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="about">
+      <h2 class="w3-wide w3-center">About</h2>
+        <img src="images/Minato.jpg" style="width:70%; border-style: solid">
     </div>
-    <div class="w3-col m8 about-style">
+    <div class="w3-col m4 about-style">
         <h4><b>WHAT IS FIGURE?</b></h4>
         <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
         <p>Usually figure bears the shape of a human, sometimes a beast, a god, a goblin, a monster or even an alien creature ... any character thought of by the artist, sculpted into 3D called the figure.</p>
@@ -69,16 +69,10 @@
   
   <div class="w3-row-padding w3-padding-16">
     <div class="w3-col m8 about-style">
-        <p>
-             Specialist in high quality toys with EDUCATION and help CREATE CREATIVITY for children
-        </p>
-        <p>
-            All products are approved by international standards, ensuring QUALITY and absolute SAFETY
-        </p>
-        <p>
-            Diversified with over 1,000 types of items for children of all ages
-        </p>
-        
+        <h4><b>WHAT IS JAPAN FIGURE?</b></h4>
+        <p>These are figures created by Japanese artists, illustrating, creating and finishing in Japan.</p>
+        <p>Because of being born in Japan, it is obvious that the Japan figure has Japanese culture, from Anime, Manga, Game, Light novel, J-pop to Virtual Singer and so on.</p>
+        <p>With Japanese technology and a strictly supervised production process, the figure products are very well-executed, sharp details, vivid colors, precise expressions like the original character have satisfied many fans. fans all over the world. So even though "Made in China" is still Japanese.</p>    
     </div>
     <div class="w3-col m4">
         <img src="images/kiritoasuna.jpg" style="width:70%" class="w3-right">
@@ -122,8 +116,6 @@
 	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Anime Figure</span>     
 	      </p>
 	    </div>
-
-	  </div>
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-hide-small">
         <i class="fa fa-facebook-official w3-hover-opacity"></i>
         <i class="fa fa-instagram w3-hover-opacity"></i>
