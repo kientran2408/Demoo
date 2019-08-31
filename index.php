@@ -66,8 +66,6 @@
         <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
         <p>Usually figure bears the shape of a human, sometimes a beast, a god, a goblin, a monster or even an alien creature ... any character thought of by the artist, sculpted into 3D called the figure.</p>
     </div>
-  </div>
-  
         <div class="w3-col m6 w3-padding-large w3-hide-small">
         <img src="images/kiritoasuna.jpg" class="w3-round w3-image w3-opacity-min" alt="coffee beans" width="302" height="218">
         </div>
@@ -115,6 +113,7 @@
 	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Anime Figure</span>     
 	      </p>
 	    </div>
+      <br>
       <br>
       <br>
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-hide-small">
