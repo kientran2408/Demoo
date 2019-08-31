@@ -1,0 +1,20 @@
+h1,h2,h3,h4,h5,h6 {
+    font-family: Bahnschrift;
+    color: #e21212;
+}
+div.about-style{
+    font-family: Bahnschrift;
+}
+
+div.address-style{
+    font-family: Lucida Console;
+    font-weight: bold;
+}
+
+.pcontainer{
+	float:left;     /*Nằm bên trái*/
+    width: 900px;   /*Rộng 700px*/
+    height: 300px;  /*Cao 300px*/
+    background: red;/*Nền màu đỏ*/
+}
+
