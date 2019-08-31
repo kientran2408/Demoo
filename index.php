@@ -60,7 +60,6 @@
       <h2 class="w3-wide w3-center">About</h2>
       <br>
         <img src="images/Minato.jpg" style="width:70%">
-    </div>
     <div class="w3-col m4 about-style">
         <h4><b>WHAT IS FIGURE?</b></h4>
         <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
