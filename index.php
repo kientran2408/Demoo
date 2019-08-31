@@ -47,10 +47,13 @@
         <div class="w3-content" style="max-width:2000px;margin-top:46px">
           <div class="mySlides w3-display-container w3-center">
             <img class="mySlides" src="images/naruto.jpg" style="width:50%">
+          </div>
           <div class="mySlides w3-display-container w3-center">
             <img class="mySlides" src="images/pikachu.jpg" style="width:50%">
+          </div>
           <div class="mySlides w3-display-container w3-center">  
             <img class="mySlides" src="images/onepiece.jpg" style="width:60%">
+          </div>
             </div>
         </div>
   </header>
@@ -80,7 +83,7 @@
         <h4><b>WHAT IS JAPAN FIGURE?</b></h4>
         <p>These are figures created by Japanese artists, illustrating, creating and finishing in Japan.</p>
         <p>Because of being born in Japan, it is obvious that the Japan figure has Japanese culture, from Anime, Manga, Game, Light novel, J-pop to Virtual Singer and so on.</p>
-        <p>With Japanese technology and a strictly supervised production process, the figure products are very well-executed, sharp details, vivid colors, precise expressions like the original character have satisfied many fans. fans all over the world. So even though "Made in China" is still Japanese.</p>
+        <p>With Japanese technology and a strictly supervised production process, the figure products are very well-executed, sharp details, vivid colors, precise expressions like the original character have satisfied many fans. fans all over the world.</p>
         <br>    
     </div>
   </div> 
