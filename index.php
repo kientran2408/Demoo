@@ -46,13 +46,13 @@
             </div>
         <div class="w3-content">
           <div class="mySlides w3-display-container w3-center">
-            <img class="mySlides" src="images/naruto.jpg" style="width:50%">
+            <img src="images/naruto.jpg" style="width:50%">
           </div>
           <div class="mySlides w3-display-container w3-center">
-            <img class="mySlides" src="images/pikachu.jpg" style="width:50%">
+            <img src="images/pikachu.jpg" style="width:50%">
           </div>
           <div class="mySlides w3-display-container w3-center">  
-            <img class="mySlides" src="images/onepiece.jpg" style="width:60%">
+            <img src="images/onepiece.jpg" style="width:60%">
           </div>
         </div>
       </div>
