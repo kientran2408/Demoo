@@ -62,6 +62,7 @@
       <div class="w3-col m6">
         <img src="images/Minato.jpg" style="width:70%;">
     </div>
+    <div class="w3-row-padding w3-padding-16">
     <div class="w3-col m8 about-style">
         <h4><b>WHAT IS FIGURE?</b></h4>
         <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
@@ -118,6 +119,8 @@
 	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Anime Figure</span>     
 	      </p>
 	    </div>
+      <br>
+      <br>
       <br>
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-hide-small">
         <i class="fa fa-facebook-official w3-hover-opacity"></i>
