@@ -59,7 +59,7 @@
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="about">
       <h2 class="w3-wide w3-center">About</h2>
       <br>
-      <div class="w3-col m4">
+      <div class="w3-col m8">
         <img src="images/Minato.jpg" style="width:70%;">
     </div>
     <div class="w3-col m8 about-style">
