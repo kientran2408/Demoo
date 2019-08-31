@@ -67,6 +67,10 @@
         <p>Usually figure bears the shape of a human, sometimes a beast, a god, a goblin, a monster or even an alien creature ... any character thought of by the artist, sculpted into 3D called the figure.</p>
         <br>
         <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="w3-col m6 w3-padding-large w3-hide-small">
         <img src="images/kiritoasuna.jpg" class="w3-round w3-image w3-opacity-min" alt="coffee beans" width="302" height="218">
         </div>
@@ -106,18 +110,7 @@
       </div>
 
   <!-- Footer -->
-	    <div class="address-style">
-	      <h4><b>Popular tags</b></h4>
-	      <p>
-	        <span class="w3-tag w3-black w3-margin-bottom">Figure</span> 
-	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Figure Japan</span>
-	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Anime Figure</span>     
-	      </p>
-	    </div>
-      <br>
-      <br>
-      <br>
-<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-hide-small">
+    <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-hide-small">
         <i class="fa fa-facebook-official w3-hover-opacity"></i>
         <i class="fa fa-instagram w3-hover-opacity"></i>
         <i class="fa fa-twitter w3-hover-opacity"></i>
