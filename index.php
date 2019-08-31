@@ -59,7 +59,7 @@
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="about">
       <h2 class="w3-wide w3-center">About</h2>
       <br>
-      <div class="w3-col m8">
+      <div class="w3-col m6">
         <img src="images/Minato.jpg" style="width:70%;">
     </div>
     <div class="w3-col m8 about-style">
@@ -118,6 +118,7 @@
 	        <span class="w3-tag w3-grey w3-small w3-margin-bottom">Anime Figure</span>     
 	      </p>
 	    </div>
+      <br>
 <footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-hide-small">
         <i class="fa fa-facebook-official w3-hover-opacity"></i>
         <i class="fa fa-instagram w3-hover-opacity"></i>
