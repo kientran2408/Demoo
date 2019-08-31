@@ -26,10 +26,10 @@
                 <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-th-large fa-fw w3-margin-right"></i>HOMEPAGE</a> 
                 <a href="index-product.php" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-bars fa-fw w3-margin-right"></i>PRODUCT</a> 
                 <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a>
-                <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
-                <a href="admin.php" class="w3-bar-item w3-button w3-right fa fa-male w3-hover-red">ADMIN</a>  
+                <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelop  e fa-fw w3-margin-right"></i>CONTACT</a>
+                <a href="admin.php" class="w3-bar-item w3-button w3-right fa fa-male">ADMIN</a>  
               </div>
-            </div> 
+            </div>   
   </div>
   
   
@@ -44,17 +44,16 @@
 
   <!-- Header -->
   <header>
-      <a href="#"><img src="images/logo.PNG" style="width:60px; border-style: solid" class="w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
         <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     
         <div class="w3-container ">
-            <div class="w3-panel w3-sand w3-padding-16">
-                <h1 style="text-align: center; font-family: Bahnschrift">WELCOME TO THE WORLD OF LEGO</h1>
+            <div class="w3-panel w3-sand w3-padding-16 w3-text-black">
+                <h1 style="text-align: center; font-family: Bahnschrift">WELCOME TO THE WORLD OF FIGURE</h1>
             </div>
         <div class="w3-content w3-section " style="max-width:750px">
-                <img class="mySlides" src="images/lego1.jpg" style="width:100%">
-                <img class="mySlides" src="images/lego2.jpg" style="width:100%">
-                <img class="mySlides" src="images/lego3.jpg" style="width:100%">
+                <img class="mySlides" src="images/naruto.jpg" style="width:100%">
+                <img class="mySlides" src="images/pikachu.jpg" style="width:100%">
+                <img class="mySlides" src="images/onepiece.jpg" style="width:100%">
             </div>
         </div>
   </header>
